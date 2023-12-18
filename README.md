@@ -28,7 +28,24 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-List and describe the key features of your project. 
+- Allows users to archive web pages for later reference.
+
+- The application serves as a tool for saving and organizing web pages efficiently.
+
+- Helpful How-to-Use Guide:
+  - Includes a comprehensive "How to Use" guide accessible through the "Help" menu.
+  - Guides users through the steps of getting started, archiving web pages, viewing archived pages, and exiting the application.
+
+- Navigation Controls:
+  - Efficient navigation between different pages (home page and web page view).
+  - Enables users to switch between the home page and the archived web page easily.
+
+- Exit Functionality:
+  - Offers a clean and simple way for users to exit the application using the "Exit" option in the "File" menu.
+
+- Toolbar:
+  - Integrates a toolbar with a "Home" button, providing quick access to the home page.
+  - Streamlines navigation and enhances user convenience.
 
 ## Contributing 
 
