@@ -4,7 +4,7 @@
 
 # URLchive 
 
-APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
+URLchive is a powerful web page archiving tool designed to simplify the process of saving and organizing web pages for future reference. With a clean and intuitive user interface, URLchive provides a seamless experience for users to archive, view, and manage their collection of web pages
 
 ## Screenshots 
 
